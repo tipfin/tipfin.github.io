@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Indian Purple Foundation (TIPF) on TIPF</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in The Indian Purple Foundation (TIPF) on TIPF</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Apr 2025 15:03:13 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;The Indian Purple Foundation (TIPF) was formed in 2010 by a group of Indian military officers, who made a successful transition into civilian life. The objective of TIPF was to provide a platform for sharing experiences and exchanging views on various aspects of a switch from uniform to civilian life.&lt;/p&gt;&#xA;&lt;p&gt;This website (&lt;a href=&#34;https://tipf.in/&#34;&gt;https://tipf.in/&lt;/a&gt;) is focussed on matters related to Information &amp;amp; Communication Technologies (ICT) and Cybersecurity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cybersecurity Topic 1</title>
+      <link>http://localhost:1313/cyber/1/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cyber/1/</guid>
+      <description>&lt;p&gt;Cybersecurity Topic 1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ICT Topic 1</title>
+      <link>http://localhost:1313/ict/1/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ict/1/</guid>
+      <description>&lt;p&gt;ICT Topic 1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ICT Topic 2</title>
+      <link>http://localhost:1313/ict/2/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ict/2/</guid>
+      <description>&lt;p&gt;ICT Topic 2&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Mon, 28 Apr 2025 15:03:13 +0530</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
