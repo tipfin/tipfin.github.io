@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybersecurity Topics on TIPF</title>
-    <link>http://localhost:1313/cyber/</link>
+    <link>https://tipfin.github.io/cyber/</link>
     <description>Recent content in Cybersecurity Topics on TIPF</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/cyber/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipfin.github.io/cyber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity Topic 1</title>
-      <link>http://localhost:1313/cyber/1/</link>
+      <link>https://tipfin.github.io/cyber/1/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cyber/1/</guid>
+      <guid>https://tipfin.github.io/cyber/1/</guid>
       <description>&lt;p&gt;Cybersecurity Topic 1&lt;/p&gt;</description>
     </item>
   </channel>
