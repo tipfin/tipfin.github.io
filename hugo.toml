@@ -1,0 +1,71 @@
+baseURL = 'https://tipfin.github.io/'
+# baseURL = 'http://localhost/'
+
+theme = 'hyde'
+languageCode = 'en-us'
+DefaultContentLanguage = 'en'
+title = 'TIPF'
+description = "Website Title"
+
+[params]
+  description = "ICT and Cybersecurity related website"
+  themeColor = "theme-base-0e"
+  dateformat = "01 Jan 2025"
+
+# Global menu section
+# See https://gohugo.io/content-management/menus/
+[menus]
+#  [[menus.main]]
+#    name = 'Home'
+#    pageRef = '/'
+#    weight = 10
+#    identifier = 'home'
+#    pre = "<i class='fa fa-heart'></i>&nbsp;"
+#  [[menus.main]]
+#    name = 'About'
+#    pageRef = '/about.md'
+#    weight = 20
+  [[menus.main]]
+    name = 'ICT Topics'
+    pageRef = '/ict'
+    weight = 21
+  [[menus.main]]
+    name = 'Cybersecurity Topics'
+    pageRef = '/cyber'
+    weight = 22
+#  [[menus.main]]
+#    name = "Github"
+#	 url = "https://github.com/tipfin/"
+#    weight = 100
+#  [[menus.main]]
+#    name = "LinkedIn Page"
+#	 url = "https://www.linkedin.com/company/tipf/"
+#    weight = 100
+#    identifier = 'linkedin'
+#    pre = "<b>pre!</b> "
+#    post = " <b>post!</b>"
+  
+    # path name excluded from documentation menu
+    menu_exclusion = [
+        "archives",
+        "archive",
+        "blog",
+        "entry",
+        "post",
+        "posts",
+    ]
+
+# Markup configure section
+# See https://gohugo.io/getting-started/configuration-markup/
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 4
+        ordered = false
+
+[outputs]
+    home = ["HTML", "RSS"]
+
